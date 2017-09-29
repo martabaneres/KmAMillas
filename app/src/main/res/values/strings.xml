@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KmAMillas</string>
+    <string name="kilometros">Kilómetros</string>
+    <string name="millas">Millas</string>
+    <string name="a_millas">A MILLAS</string>
+    <string name="a_km">A KILÓMETROS</string>
+</resources>
